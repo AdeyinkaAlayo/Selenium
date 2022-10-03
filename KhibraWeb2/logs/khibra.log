@@ -1,0 +1,1650 @@
+INFO  - 2022-03-03 15:38:34.454; utils.log; START=StudentChangePassword--------------------------------------------------------------
+INFO  - 2022-03-03 15:38:39.715; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-03 15:38:44.592; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-03 15:38:46.670; utils.log; Login Successful
+INFO  - 2022-03-03 15:38:48.877; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-03 15:38:48.936; utils.log; My Account Selected
+INFO  - 2022-03-03 15:38:49.447; utils.log; My Account Page opened 
+INFO  - 2022-03-03 15:38:51.555; utils.log; Settings Tab Clicked 
+INFO  - 2022-03-03 15:38:53.702; utils.log; Short New  Password  entered
+INFO  - 2022-03-03 15:38:53.870; utils.log; Password Fields Cleared 
+INFO  - 2022-03-03 15:38:54.033; utils.log; Wrong Old Password  entered
+INFO  - 2022-03-03 15:38:54.121; utils.log; New  Password  entered
+INFO  - 2022-03-03 15:38:54.240; utils.log; New  Password  entered
+INFO  - 2022-03-03 15:38:54.295; utils.log; Save Button Clicked 
+INFO  - 2022-03-03 15:38:56.312; utils.log; Incorrect old password alert displayed 
+INFO  - 2022-03-03 15:38:58.498; utils.log; Correct Old Password  entered
+INFO  - 2022-03-03 15:38:58.617; utils.log; New  Password  entered
+INFO  - 2022-03-03 15:38:58.801; utils.log; Wrong New  Password  entered
+INFO  - 2022-03-03 15:38:58.817; utils.log; Wrong password combinations alert displayed 
+INFO  - 2022-03-03 15:39:00.904; utils.log; Correct Old Password  entered
+INFO  - 2022-03-03 15:39:00.999; utils.log; New  Password  entered
+INFO  - 2022-03-03 15:39:01.158; utils.log; correct New  Password  entered
+INFO  - 2022-03-03 15:39:01.199; utils.log; Save Button Clicked 
+INFO  - 2022-03-03 15:39:04.213; utils.log; Password Change successful Message displayed  
+INFO  - 2022-03-03 15:39:04.214; utils.log; End TEST-------------------------- StudentChangePassword------------------------
+INFO  - 2022-03-03 15:39:04.214; utils.log; END=PASSED
+INFO  - 2022-03-03 15:45:59.424; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-03 15:46:00.169; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-03 15:46:03.797; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-03 15:46:09.701; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-03 15:46:11.723; utils.log; Employer Login Successful
+INFO  - 2022-03-03 15:46:15.897; utils.log; Dropdown  Clicked
+INFO  - 2022-03-03 15:46:18.010; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-03 15:46:20.154; utils.log; Open Menu  Clicked
+INFO  - 2022-03-03 15:46:22.278; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-03 15:46:24.384; utils.log; Search Button  Clicked
+INFO  - 2022-03-03 15:46:26.440; utils.log; Job Searched was found
+INFO  - 2022-03-03 15:46:26.492; utils.log; Jobs Selected
+INFO  - 2022-03-03 15:46:36.647; utils.log; Recommended TAB Selected
+INFO  - 2022-03-03 15:46:41.743; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-03 15:46:43.827; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-03 15:46:45.879; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-03 15:46:49.953; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-03 15:46:50.152; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-03 15:47:54.209; utils.log; END=FAILED
+INFO  - 2022-03-03 15:56:41.080; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-03 15:56:41.814; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-03 15:56:45.411; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-03 15:56:51.259; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-03 15:56:53.284; utils.log; Employer Login Successful
+INFO  - 2022-03-03 15:56:57.450; utils.log; Dropdown  Clicked
+INFO  - 2022-03-03 15:56:59.650; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-03 15:57:01.717; utils.log; Open Menu  Clicked
+INFO  - 2022-03-03 15:57:03.862; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-03 15:57:05.967; utils.log; Search Button  Clicked
+INFO  - 2022-03-03 15:57:08.037; utils.log; Job Searched was found
+INFO  - 2022-03-03 15:57:08.100; utils.log; Jobs Selected
+INFO  - 2022-03-03 15:57:18.278; utils.log; Recommended TAB Selected
+INFO  - 2022-03-03 15:57:23.397; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-03 15:57:25.503; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-03 15:57:27.552; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-03 15:57:31.653; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-03 15:57:31.848; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-03 15:58:37.503; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-03 15:58:38.127; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-03 15:58:41.498; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-03 15:58:47.471; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-03 15:58:49.498; utils.log; Employer Login Successful
+INFO  - 2022-03-03 15:58:53.666; utils.log; Dropdown  Clicked
+INFO  - 2022-03-03 15:58:55.726; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-03 15:58:57.779; utils.log; Open Menu  Clicked
+INFO  - 2022-03-03 15:58:59.905; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-03 15:59:01.969; utils.log; Search Button  Clicked
+INFO  - 2022-03-03 15:59:04.027; utils.log; Job Searched was found
+INFO  - 2022-03-03 15:59:04.096; utils.log; Jobs Selected
+INFO  - 2022-03-03 15:59:14.238; utils.log; Recommended TAB Selected
+INFO  - 2022-03-03 15:59:19.341; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-03 15:59:21.416; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-03 15:59:23.468; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-03 15:59:27.547; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-03 16:01:08.394; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-03 16:01:09.057; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-03 16:01:13.091; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-03 16:01:18.839; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-03 16:01:20.868; utils.log; Employer Login Successful
+INFO  - 2022-03-03 16:01:25.122; utils.log; Dropdown  Clicked
+INFO  - 2022-03-03 16:01:27.189; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-03 16:01:29.272; utils.log; Open Menu  Clicked
+INFO  - 2022-03-03 16:01:31.584; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-03 16:01:33.729; utils.log; Search Button  Clicked
+INFO  - 2022-03-03 16:01:35.781; utils.log; Job Searched was found
+INFO  - 2022-03-03 16:01:35.854; utils.log; Jobs Selected
+INFO  - 2022-03-03 16:01:46.096; utils.log; Recommended TAB Selected
+INFO  - 2022-03-03 16:01:51.370; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-03 16:01:53.488; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-03 16:01:55.544; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-03 16:01:57.658; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-03 16:03:01.715; utils.log; END=FAILED
+INFO  - 2022-03-03 16:03:12.981; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-03 16:03:13.616; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-03 16:03:17.138; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-03 16:03:23.040; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-03 16:03:25.065; utils.log; Employer Login Successful
+INFO  - 2022-03-03 16:03:29.252; utils.log; Dropdown  Clicked
+INFO  - 2022-03-03 16:03:31.307; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-03 16:03:33.365; utils.log; Open Menu  Clicked
+INFO  - 2022-03-03 16:03:35.492; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-03 16:03:37.556; utils.log; Search Button  Clicked
+INFO  - 2022-03-03 16:03:39.602; utils.log; Job Searched was found
+INFO  - 2022-03-03 16:03:39.647; utils.log; Jobs Selected
+INFO  - 2022-03-03 16:03:49.778; utils.log; Recommended TAB Selected
+INFO  - 2022-03-03 16:03:54.867; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-03 16:03:56.942; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-03 16:03:58.994; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-03 16:04:01.063; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-03 16:04:05.102; utils.log; END=FAILED
+INFO  - 2022-03-03 16:04:55.896; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-03 16:04:56.825; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-03 16:05:00.790; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-03 16:05:06.870; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-03 16:05:08.886; utils.log; Employer Login Successful
+INFO  - 2022-03-03 16:05:13.082; utils.log; Dropdown  Clicked
+INFO  - 2022-03-03 16:05:15.145; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-03 16:05:17.195; utils.log; Open Menu  Clicked
+INFO  - 2022-03-03 16:05:19.344; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-03 16:05:21.395; utils.log; Search Button  Clicked
+INFO  - 2022-03-03 16:05:23.453; utils.log; Job Searched was found
+INFO  - 2022-03-03 16:05:23.500; utils.log; Jobs Selected
+INFO  - 2022-03-03 16:05:33.680; utils.log; Recommended TAB Selected
+INFO  - 2022-03-03 16:05:38.811; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-03 16:05:40.892; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-03 16:05:42.953; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-03 16:05:45.018; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-03 16:06:49.056; utils.log; END=FAILED
+INFO  - 2022-03-03 16:09:58.669; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-03 16:09:59.714; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-03 16:10:03.487; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-03 16:10:09.509; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-03 16:10:11.523; utils.log; Employer Login Successful
+INFO  - 2022-03-03 16:10:15.764; utils.log; Dropdown  Clicked
+INFO  - 2022-03-03 16:10:17.828; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-03 16:10:19.882; utils.log; Open Menu  Clicked
+INFO  - 2022-03-03 16:10:22.021; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-03 16:10:24.083; utils.log; Search Button  Clicked
+INFO  - 2022-03-03 16:10:26.141; utils.log; Job Searched was found
+INFO  - 2022-03-03 16:10:26.255; utils.log; Jobs Selected
+INFO  - 2022-03-03 16:10:36.445; utils.log; Recommended TAB Selected
+INFO  - 2022-03-03 16:10:41.596; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-03 16:10:43.683; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-03 16:10:45.742; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-03 16:10:47.829; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-03 16:11:51.894; utils.log; END=FAILED
+INFO  - 2022-03-03 16:18:03.855; utils.log; START=CandidateProcessingHiredTAB--------------------------------------------------------------
+INFO  - 2022-03-03 16:18:04.578; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-03 16:18:08.728; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-03 16:18:14.591; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-03 16:18:16.612; utils.log; Employer Login Successful
+INFO  - 2022-03-03 16:18:20.784; utils.log; Dropdown  Clicked
+INFO  - 2022-03-03 16:18:22.843; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-03 16:18:24.897; utils.log; Open Menu  Clicked
+INFO  - 2022-03-03 16:18:27.027; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-03 16:18:29.087; utils.log; Search Button  Clicked
+INFO  - 2022-03-03 16:18:31.151; utils.log; Job Searched was found
+INFO  - 2022-03-03 16:18:31.202; utils.log; Jobs Selected
+INFO  - 2022-03-03 16:18:41.352; utils.log; Recommended TAB Selected
+INFO  - 2022-03-03 16:18:46.536; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-03 16:18:48.612; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-03 16:18:50.664; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-03 16:18:54.740; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-03 16:18:54.879; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-03 16:19:58.961; utils.log; END=FAILED
+INFO  - 2022-03-07 08:27:35.556; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 08:27:36.288; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 08:30:28.226; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 08:30:28.925; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 08:30:32.655; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 08:30:38.347; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 08:30:40.364; utils.log; Employer Login Successful
+INFO  - 2022-03-07 08:30:44.528; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 08:30:46.576; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 08:30:48.633; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 08:30:50.767; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 08:30:52.824; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 08:30:54.879; utils.log; Job Searched was found
+INFO  - 2022-03-07 08:30:54.929; utils.log; Jobs Selected
+INFO  - 2022-03-07 08:31:05.092; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 08:31:10.185; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 08:31:12.283; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 08:31:14.338; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 08:31:16.431; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 08:32:20.477; utils.log; END=FAILED
+INFO  - 2022-03-07 08:34:25.332; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 08:34:26.021; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 08:34:29.679; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 08:34:35.519; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 08:34:37.549; utils.log; Employer Login Successful
+INFO  - 2022-03-07 08:34:41.696; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 08:34:43.752; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 08:34:45.806; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 08:34:47.931; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 08:34:49.981; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 08:34:52.029; utils.log; Job Searched was found
+INFO  - 2022-03-07 08:34:52.085; utils.log; Jobs Selected
+INFO  - 2022-03-07 08:35:02.173; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 08:35:07.274; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 08:35:09.344; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 08:35:11.396; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 08:35:13.472; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 08:35:46.803; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 08:35:47.451; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 08:35:50.863; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 08:35:56.783; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 08:35:58.801; utils.log; Employer Login Successful
+INFO  - 2022-03-07 08:36:02.982; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 08:36:05.032; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 08:36:07.091; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 08:36:09.214; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 08:36:11.273; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 08:36:13.324; utils.log; Job Searched was found
+INFO  - 2022-03-07 08:36:13.372; utils.log; Jobs Selected
+INFO  - 2022-03-07 08:36:17.536; utils.log; END=FAILED
+INFO  - 2022-03-07 08:36:23.538; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 08:36:28.693; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 08:36:30.760; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 08:36:32.811; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 08:36:34.870; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 08:37:38.974; utils.log; END=FAILED
+INFO  - 2022-03-07 08:41:17.102; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 08:41:17.774; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 08:41:21.306; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 08:41:27.205; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 08:41:29.230; utils.log; Employer Login Successful
+INFO  - 2022-03-07 08:41:33.394; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 08:41:35.449; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 08:41:37.505; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 08:41:39.631; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 08:41:41.685; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 08:41:43.745; utils.log; Job Searched was found
+INFO  - 2022-03-07 08:41:43.791; utils.log; Jobs Selected
+INFO  - 2022-03-07 08:41:53.941; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 08:41:59.022; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 08:42:01.094; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 08:42:03.146; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 08:42:05.214; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 08:43:09.259; utils.log; END=FAILED
+INFO  - 2022-03-07 08:48:02.500; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 08:48:03.382; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 08:48:07.301; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 08:48:13.205; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 08:48:15.219; utils.log; Employer Login Successful
+INFO  - 2022-03-07 08:48:19.442; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 08:48:21.501; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 08:48:23.549; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 08:48:25.754; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 08:48:27.805; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 08:48:29.865; utils.log; Job Searched was found
+INFO  - 2022-03-07 08:48:29.941; utils.log; Jobs Selected
+INFO  - 2022-03-07 08:48:40.218; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 08:48:45.346; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 08:48:47.454; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 08:48:49.518; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 08:48:51.567; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 08:49:55.589; utils.log; END=FAILED
+INFO  - 2022-03-07 08:50:23.123; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 08:50:24.523; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 08:50:30.292; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 08:50:36.423; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 08:50:38.440; utils.log; Employer Login Successful
+INFO  - 2022-03-07 08:50:42.680; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 08:50:44.746; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 08:50:46.804; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 08:50:49.026; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 08:50:51.082; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 08:50:53.263; utils.log; Job Searched was found
+INFO  - 2022-03-07 08:50:53.359; utils.log; Jobs Selected
+INFO  - 2022-03-07 08:51:03.630; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 08:51:08.795; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 08:51:10.895; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 08:51:12.974; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 08:51:15.050; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 08:52:19.081; utils.log; END=FAILED
+INFO  - 2022-03-07 08:57:31.393; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 08:57:32.071; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 08:57:35.668; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 08:57:41.614; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 08:57:43.632; utils.log; Employer Login Successful
+INFO  - 2022-03-07 08:57:47.809; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 08:57:49.865; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 08:57:51.919; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 08:57:54.044; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 08:57:56.097; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 08:57:58.150; utils.log; Job Searched was found
+INFO  - 2022-03-07 08:57:58.196; utils.log; Jobs Selected
+INFO  - 2022-03-07 08:58:08.367; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 08:58:13.459; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 08:58:15.528; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 08:58:17.578; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 08:58:19.644; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 08:59:23.679; utils.log; END=FAILED
+INFO  - 2022-03-07 08:59:29.746; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 08:59:30.426; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 08:59:34.176; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 08:59:40.326; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 08:59:42.345; utils.log; Employer Login Successful
+INFO  - 2022-03-07 08:59:46.521; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 08:59:48.568; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 08:59:50.627; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 08:59:52.749; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 08:59:54.811; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 08:59:56.863; utils.log; Job Searched was found
+INFO  - 2022-03-07 08:59:56.912; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:00:07.064; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 09:00:12.493; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:00:14.564; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:00:16.615; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 09:00:18.679; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 09:01:23.203; utils.log; END=FAILED
+INFO  - 2022-03-07 09:01:55.222; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 09:01:56.206; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:02:00.406; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:02:06.784; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:02:08.803; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:02:13.029; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:02:15.097; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:02:17.158; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:02:19.317; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:02:21.378; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:02:23.440; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:02:23.519; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:02:33.731; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 09:02:38.841; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:02:40.952; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:02:43.019; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 09:02:45.130; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 09:03:29.473; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 09:03:30.490; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:03:34.688; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:03:40.887; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:03:42.909; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:03:47.154; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:03:49.179; utils.log; END=FAILED
+INFO  - 2022-03-07 09:03:49.256; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:03:51.417; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:03:53.741; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:03:55.817; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:03:58.087; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:03:58.163; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:04:08.556; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 09:04:13.671; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:04:15.795; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:04:17.856; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 09:04:19.989; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 09:05:24.038; utils.log; END=FAILED
+INFO  - 2022-03-07 09:11:37.323; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 09:11:38.009; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:11:41.794; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:11:47.633; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:11:49.653; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:11:53.822; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:11:55.884; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:11:57.940; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:12:00.079; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:12:02.136; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:12:04.192; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:12:04.239; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:12:14.389; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 09:12:19.479; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:12:21.543; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:12:23.596; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 09:12:25.662; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 09:13:29.703; utils.log; END=FAILED
+INFO  - 2022-03-07 09:16:07.620; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 09:16:08.285; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:16:12.144; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:16:18.111; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:16:20.135; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:16:24.300; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:16:26.357; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:16:28.440; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:16:30.568; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:16:32.620; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:16:34.668; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:16:34.714; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:16:44.871; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 09:16:49.958; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:16:52.033; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:16:54.082; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 09:16:56.154; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 09:17:52.502; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 09:17:53.375; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:17:57.453; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:18:00.196; utils.log; END=FAILED
+INFO  - 2022-03-07 09:18:03.361; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:18:05.489; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:18:09.699; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:18:11.761; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:18:13.820; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:18:15.942; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:18:17.996; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:18:20.052; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:18:20.127; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:18:30.274; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 09:18:35.374; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:18:37.476; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:18:39.543; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 09:18:41.640; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 09:19:43.687; utils.log; END=FAILED
+WARN  - 2022-03-07 09:19:45.851; org.asynchttpclient.netty.handler.WebSocketHandler; onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  - 2022-03-07 09:22:23.254; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 09:22:23.912; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:22:27.626; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:22:33.485; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:22:35.509; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:22:39.707; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:22:41.762; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:22:43.826; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:22:45.971; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:22:48.019; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:22:50.075; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:22:50.126; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:22:59.204; utils.log; END=FAILED
+INFO  - 2022-03-07 09:25:39.787; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 09:25:40.480; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:25:43.970; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:25:49.925; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:25:51.945; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:25:56.166; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:25:58.225; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:26:00.280; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:26:02.405; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:26:04.462; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:26:06.520; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:26:06.568; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:26:14.641; utils.log; END=FAILED
+INFO  - 2022-03-07 09:32:59.815; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-03-07 09:33:00.526; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:33:04.374; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:33:10.235; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:33:12.258; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:33:16.459; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:33:18.512; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:33:20.561; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:33:22.713; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:33:24.777; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:33:26.838; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:33:26.884; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:33:34.995; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-07 09:33:39.077; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:33:41.143; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:33:43.204; utils.log; All Actions Options Available on the Favorite TAB
+INFO  - 2022-03-07 09:33:43.205; utils.log; End TEST-------------------------- CandidateProcessingFavoriteTab------------------------
+INFO  - 2022-03-07 09:33:43.205; utils.log; END=PASSED
+INFO  - 2022-03-07 09:37:30.698; utils.log; START=CandidateProcessingHiredTAB--------------------------------------------------------------
+INFO  - 2022-03-07 09:37:31.367; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:37:35.727; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:37:41.783; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:37:43.807; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:37:47.979; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:37:50.036; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:37:52.090; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:37:54.224; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:37:56.286; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:37:58.336; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:37:58.383; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:38:08.494; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-07 09:38:12.598; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:38:14.659; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:38:16.710; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-07 09:38:18.799; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:38:20.870; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:38:23.213; utils.log; Candidate Moved to Hired TABS
+INFO  - 2022-03-07 09:38:26.281; utils.log; END=FAILED
+INFO  - 2022-03-07 09:40:02.317; utils.log; START=CandidateProcessingHiredTAB--------------------------------------------------------------
+INFO  - 2022-03-07 09:40:03.020; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:40:08.097; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:40:14.443; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:40:16.462; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:40:20.794; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:40:22.884; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:40:24.983; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:40:27.113; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:40:29.174; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:40:31.221; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:40:31.267; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:40:41.376; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-07 09:40:45.505; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:40:47.564; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:40:49.612; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-07 09:40:51.725; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:40:53.774; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:40:56.128; utils.log; Candidate Moved to Hired TABS
+INFO  - 2022-03-07 09:40:58.194; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:41:00.243; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:41:02.288; utils.log; All Actions Options Available on the Hired TAB
+INFO  - 2022-03-07 09:41:02.288; utils.log; End TEST-------------------------- CandidateProcessingHiredTAB------------------------
+INFO  - 2022-03-07 09:41:02.288; utils.log; END=PASSED
+INFO  - 2022-03-07 09:51:44.002; utils.log; START=CandidateProcessingInterviewTAB--------------------------------------------------------------
+INFO  - 2022-03-07 09:51:44.743; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:51:48.451; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:51:54.368; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:51:56.385; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:52:00.589; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:52:02.651; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:52:04.714; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:52:06.842; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:52:08.908; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:52:10.963; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:52:11.017; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:52:21.125; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-07 09:52:25.172; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-07 09:52:27.268; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:52:29.329; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:52:31.383; utils.log; Candidate Selected for Interview 
+INFO  - 2022-03-07 09:52:33.957; utils.log; Interviewing TAB  Clicked
+INFO  - 2022-03-07 09:52:36.027; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:52:38.067; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:52:40.118; utils.log; All Actions Options Available on the Interview TAB
+INFO  - 2022-03-07 09:52:40.118; utils.log; End TEST-------------------------- CandidateProcessingInterviewTAB------------------------
+INFO  - 2022-03-07 09:52:40.118; utils.log; END=PASSED
+INFO  - 2022-03-07 09:53:44.137; utils.log; START=CandidateProcessingOfferSentTAB--------------------------------------------------------------
+INFO  - 2022-03-07 09:53:45.552; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:53:49.846; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:53:55.672; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:53:57.690; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:54:01.858; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:54:03.914; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:54:05.968; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:54:08.104; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:54:10.167; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:54:12.221; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:54:12.268; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:54:22.375; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-07 09:54:26.419; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-07 09:54:28.521; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:54:30.577; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:54:32.629; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-07 09:54:34.717; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-07 09:54:36.784; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:54:38.826; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:54:40.909; utils.log; All Actions Options Available on the Send Offer TAB
+INFO  - 2022-03-07 09:54:40.909; utils.log; End TEST-------------------------- CandidateProcessingOfferSentTAB------------------------
+INFO  - 2022-03-07 09:54:40.909; utils.log; END=PASSED
+INFO  - 2022-03-07 09:57:05.499; utils.log; START=CandidateProcessingProposedTAB--------------------------------------------------------------
+INFO  - 2022-03-07 09:57:06.181; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:57:09.777; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:57:15.588; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:57:17.607; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:57:21.776; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:57:23.833; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:57:25.893; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:57:28.147; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:57:30.211; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:57:32.280; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:57:32.405; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:57:35.563; utils.log; Proposed TAB Selected
+INFO  - 2022-03-07 09:57:38.656; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:57:40.716; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:57:42.734; utils.log; No Actions Available for Proposed Jobs
+INFO  - 2022-03-07 09:57:42.735; utils.log; End TEST-------------------------- CandidateProcessingProposedTAB------------------------
+INFO  - 2022-03-07 09:57:42.735; utils.log; END=PASSED
+INFO  - 2022-03-07 09:58:23.196; utils.log; START=CandidateProcessingRecommended--------------------------------------------------------------
+INFO  - 2022-03-07 09:58:23.845; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 09:58:27.312; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 09:58:33.188; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 09:58:35.209; utils.log; Employer Login Successful
+INFO  - 2022-03-07 09:58:39.373; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 09:58:41.428; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 09:58:43.510; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 09:58:45.646; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 09:58:47.703; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 09:58:49.749; utils.log; Job Searched was found
+INFO  - 2022-03-07 09:58:49.795; utils.log; Jobs Selected
+INFO  - 2022-03-07 09:59:00.229; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 09:59:05.362; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 09:59:07.435; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 09:59:09.485; utils.log; Favorite Button   Clicked 
+INFO  - 2022-03-07 09:59:11.557; utils.log; Favorite success message is displayed  
+INFO  - 2022-03-07 10:00:15.246; utils.log; START=CandidateProcessingRecommended--------------------------------------------------------------
+INFO  - 2022-03-07 10:00:15.918; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 10:00:16.588; utils.log; END=FAILED
+INFO  - 2022-03-07 10:00:19.770; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 10:00:25.655; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 10:00:27.681; utils.log; Employer Login Successful
+INFO  - 2022-03-07 10:00:31.865; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 10:00:33.928; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 10:00:35.982; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 10:00:38.106; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 10:00:40.171; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 10:00:42.225; utils.log; Job Searched was found
+INFO  - 2022-03-07 10:00:42.270; utils.log; Jobs Selected
+INFO  - 2022-03-07 10:00:52.431; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 10:00:57.540; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 10:00:59.646; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 10:01:01.713; utils.log; Propose  Button   Clicked 
+INFO  - 2022-03-07 10:01:03.795; utils.log; Propose success message is displayed  
+INFO  - 2022-03-07 10:01:47.817; utils.log; START=CandidateProcessingRecommended--------------------------------------------------------------
+INFO  - 2022-03-07 10:01:48.477; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 10:01:52.574; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 10:01:58.648; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 10:02:00.671; utils.log; Employer Login Successful
+INFO  - 2022-03-07 10:02:04.834; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 10:02:05.843; utils.log; END=FAILED
+INFO  - 2022-03-07 10:02:06.903; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 10:02:08.967; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 10:02:11.107; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 10:02:13.162; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 10:02:15.220; utils.log; Job Searched was found
+INFO  - 2022-03-07 10:02:15.273; utils.log; Jobs Selected
+INFO  - 2022-03-07 10:02:25.440; utils.log; Recommended TAB Selected
+INFO  - 2022-03-07 10:02:30.528; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 10:02:32.628; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 10:02:34.682; utils.log; Propose  Button   Clicked 
+INFO  - 2022-03-07 10:03:36.733; utils.log; END=FAILED
+INFO  - 2022-03-07 10:09:24.299; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-03-07 10:09:24.993; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-07 10:09:28.724; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-07 10:09:34.948; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-07 10:09:36.964; utils.log; Employer Login Successful
+INFO  - 2022-03-07 10:09:41.135; utils.log; Dropdown  Clicked
+INFO  - 2022-03-07 10:09:43.191; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-07 10:09:45.247; utils.log; Open Menu  Clicked
+INFO  - 2022-03-07 10:09:47.404; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-07 10:09:49.463; utils.log; Search Button  Clicked
+INFO  - 2022-03-07 10:09:51.518; utils.log; Job Searched was found
+INFO  - 2022-03-07 10:09:51.569; utils.log; Jobs Selected
+INFO  - 2022-03-07 10:10:01.684; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-07 10:10:05.754; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-07 10:10:07.863; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 10:10:09.938; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 10:10:13.992; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-07 10:10:18.104; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-07 10:10:20.285; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-07 10:10:22.338; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-07 10:10:24.740; utils.log; Candidate Moved to Rejected TAB
+INFO  - 2022-03-07 10:10:24.794; utils.log; Rejected TAB Clicked
+INFO  - 2022-03-07 10:10:27.855; utils.log; END=FAILED
+INFO  - 2022-03-09 14:25:36.608; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-03-09 14:25:37.580; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-09 14:29:32.780; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-03-09 14:29:33.650; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-09 14:29:38.630; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-09 14:29:44.591; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-09 14:29:46.607; utils.log; Employer Login Successful
+INFO  - 2022-03-09 14:29:50.806; utils.log; Dropdown  Clicked
+INFO  - 2022-03-09 14:29:52.857; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-09 14:29:54.917; utils.log; Open Menu  Clicked
+INFO  - 2022-03-09 14:29:57.102; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-09 14:29:59.161; utils.log; Search Button  Clicked
+INFO  - 2022-03-09 14:30:01.214; utils.log; Job Searched was found
+INFO  - 2022-03-09 14:30:01.294; utils.log; Jobs Selected
+INFO  - 2022-03-09 14:30:11.408; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-09 14:30:15.478; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-09 14:30:17.580; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-09 14:30:19.670; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-09 14:30:23.724; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-09 14:30:27.830; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-09 14:30:29.886; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-09 14:30:31.945; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-09 14:30:34.361; utils.log; Candidate Moved to Rejected TAB
+INFO  - 2022-03-09 14:30:34.419; utils.log; Rejected TAB Clicked
+INFO  - 2022-03-09 14:30:37.512; utils.log; END=FAILED
+INFO  - 2022-03-10 06:37:59.872; utils.log; START=UniversityViewJobs--------------------------------------------------------------
+INFO  - 2022-03-10 06:38:05.347; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-10 06:38:10.388; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-10 06:38:14.415; utils.log; University Login Successful
+INFO  - 2022-03-10 06:38:18.722; utils.log; Dropdown  Clicked
+INFO  - 2022-03-10 06:39:00.755; utils.log; END=FAILED
+INFO  - 2022-03-10 06:39:52.236; utils.log; START=UniversityViewJobs--------------------------------------------------------------
+INFO  - 2022-03-10 06:39:57.270; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-10 06:39:59.419; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-03-10 06:40:04.458; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-10 06:40:08.482; utils.log; University Login Successful
+INFO  - 2022-03-10 06:40:13.736; utils.log; END=FAILED
+INFO  - 2022-03-10 06:40:23.482; utils.log; START=UniversityViewJobs--------------------------------------------------------------
+INFO  - 2022-03-10 06:40:27.651; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-10 06:40:29.821; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-03-10 06:40:34.832; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-10 06:40:38.847; utils.log; University Login Successful
+INFO  - 2022-03-10 06:40:43.104; utils.log; Dropdown  Clicked
+INFO  - 2022-03-10 06:40:45.164; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-10 06:40:47.167; utils.log; End TEST-------------------------- UniversityViewJobs------------------------
+INFO  - 2022-03-10 06:40:47.168; utils.log; END=PASSED
+INFO  - 2022-03-10 06:42:13.311; utils.log; START=UniversityViewJobs--------------------------------------------------------------
+INFO  - 2022-03-10 06:42:19.202; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-10 06:42:21.274; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-03-10 06:42:26.606; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-10 06:42:30.624; utils.log; University Login Successful
+INFO  - 2022-03-10 06:42:34.942; utils.log; Dropdown  Clicked
+INFO  - 2022-03-10 06:42:37.011; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-10 06:43:19.047; utils.log; END=FAILED
+INFO  - 2022-03-10 06:44:37.389; utils.log; START=UniversityViewJobs--------------------------------------------------------------
+INFO  - 2022-03-10 06:44:42.266; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-10 06:44:44.349; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-03-10 06:44:49.804; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-10 06:44:53.827; utils.log; University Login Successful
+INFO  - 2022-03-10 06:44:58.063; utils.log; Dropdown  Clicked
+INFO  - 2022-03-10 06:45:00.128; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-10 06:45:02.243; utils.log; Job Page was Opened successfully
+INFO  - 2022-03-10 06:45:02.243; utils.log; End TEST-------------------------- UniversityViewJobs------------------------
+INFO  - 2022-03-10 06:45:02.244; utils.log; END=PASSED
+INFO  - 2022-03-10 06:51:45.113; utils.log; START=UniversityViewJobs--------------------------------------------------------------
+INFO  - 2022-03-10 06:51:50.385; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-10 06:51:52.417; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-03-10 06:51:57.445; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-10 06:52:01.467; utils.log; University Login Successful
+INFO  - 2022-03-10 06:52:05.739; utils.log; Dropdown  Clicked
+INFO  - 2022-03-10 06:52:07.798; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-10 06:52:10.016; utils.log; Job Page was Opened successfully and Job ame entered in the search box
+INFO  - 2022-03-10 06:52:12.083; utils.log; Search Button Clicked
+INFO  - 2022-03-10 06:52:14.154; utils.log; Job Search was successful 
+INFO  - 2022-03-10 06:52:14.155; utils.log; End TEST-------------------------- UniversityViewJobs------------------------
+INFO  - 2022-03-10 06:52:14.155; utils.log; END=PASSED
+INFO  - 2022-03-10 07:01:42.142; utils.log; START=UniversityExportJobsPDF--------------------------------------------------------------
+INFO  - 2022-03-10 07:01:47.925; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-10 07:01:50.207; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-03-10 07:01:55.279; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-10 07:01:59.301; utils.log; University Login Successful
+INFO  - 2022-03-10 07:02:03.424; utils.log; Dropdown  Clicked
+INFO  - 2022-03-10 07:02:05.477; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-10 07:02:07.543; utils.log; Export to PDF Button  Clicked
+INFO  - 2022-03-10 07:02:08.661; utils.log; Export to PDF was successful and success message displayed
+INFO  - 2022-03-10 07:02:08.661; utils.log; End TEST-------------------------- UniversityExportJobsPDF------------------------
+INFO  - 2022-03-10 07:02:08.662; utils.log; END=PASSED
+INFO  - 2022-03-10 07:03:09.826; utils.log; START=UniversityExportJobsPDF--------------------------------------------------------------
+INFO  - 2022-03-10 07:03:15.677; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-10 07:03:20.357; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-10 07:03:24.387; utils.log; University Login Successful
+INFO  - 2022-03-10 07:03:28.489; utils.log; Dropdown  Clicked
+INFO  - 2022-03-10 07:03:30.590; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-10 07:03:32.652; utils.log; Export to PDF Button  Clicked
+INFO  - 2022-03-10 07:03:33.928; utils.log; Export to PDF was successful and success message displayed
+INFO  - 2022-03-10 07:03:33.928; utils.log; End TEST-------------------------- UniversityExportJobsPDF------------------------
+INFO  - 2022-03-10 07:03:33.929; utils.log; END=PASSED
+INFO  - 2022-03-15 18:56:38.265; utils.log; START=StudentsApplyJob--------------------------------------------------------------
+INFO  - 2022-03-15 18:56:43.523; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-15 18:56:48.418; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-15 18:56:50.439; utils.log; Login Successful
+INFO  - 2022-03-15 18:56:52.619; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-15 18:56:52.684; utils.log; Jobs Menu Selected
+INFO  - 2022-03-15 18:56:54.749; utils.log; Jobs Page displayed
+INFO  - 2022-03-15 18:56:58.936; utils.log; Job Title entered and Search Button Clicked 
+INFO  - 2022-03-15 18:57:01.026; utils.log; Apply to Job Button Clicked
+INFO  - 2022-03-15 18:57:03.083; utils.log; CloseICON Button Clicked
+INFO  - 2022-03-15 18:57:05.137; utils.log; Apply to Job Button Clicked Again 
+INFO  - 2022-03-15 18:57:07.243; utils.log; Apply Button Clicked
+INFO  - 2022-03-15 18:57:09.288; utils.log; Apply To menu Clicked 
+INFO  - 2022-03-15 18:57:49.309; utils.log; END=FAILED
+INFO  - 2022-03-15 18:59:29.588; utils.log; START=StudentsApplyJob--------------------------------------------------------------
+INFO  - 2022-03-15 18:59:35.387; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-15 18:59:40.608; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-15 18:59:42.746; utils.log; Login Successful
+INFO  - 2022-03-15 18:59:45.073; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-15 18:59:45.164; utils.log; Jobs Menu Selected
+INFO  - 2022-03-15 18:59:47.230; utils.log; Jobs Page displayed
+INFO  - 2022-03-15 18:59:51.510; utils.log; Job Title entered and Search Button Clicked 
+INFO  - 2022-03-15 18:59:53.654; utils.log; Apply to Job Button Clicked
+INFO  - 2022-03-15 18:59:55.736; utils.log; CloseICON Button Clicked
+INFO  - 2022-03-15 18:59:57.840; utils.log; Apply to Job Button Clicked Again 
+INFO  - 2022-03-15 18:59:59.941; utils.log; Apply Button Clicked
+INFO  - 2022-03-15 19:00:01.986; utils.log; Apply To menu Clicked 
+INFO  - 2022-03-15 19:00:01.987; utils.log; Job Applied Successfully and displayd in applied section
+INFO  - 2022-03-15 19:00:01.987; utils.log; End TEST-------------------------- StudentsApplyJob------------------------
+INFO  - 2022-03-15 19:00:01.988; utils.log; END=PASSED
+INFO  - 2022-03-15 19:00:11.057; utils.log; START=ChangeStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-15 19:00:15.579; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-15 19:00:20.523; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-15 19:00:22.548; utils.log; Login Successful
+INFO  - 2022-03-15 19:00:26.738; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-15 19:00:26.815; utils.log; My profile Selected
+INFO  - 2022-03-15 19:00:29.576; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-15 19:00:31.678; utils.log; Image Selected 
+INFO  - 2022-03-15 19:00:33.751; utils.log; DONE BUTTON CLICKED 
+INFO  - 2022-03-15 19:00:33.832; utils.log; Save BUTTON CLICKED 
+INFO  - 2022-03-15 19:00:33.832; utils.log; End TEST-------------------------- ChangeStudentProfilePicture------------------------
+INFO  - 2022-03-15 19:00:33.833; utils.log; END=PASSED
+INFO  - 2022-03-15 19:01:07.073; utils.log; START=DeleteStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-15 19:01:11.396; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-15 19:01:16.304; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-15 19:01:18.320; utils.log; Login Successful
+INFO  - 2022-03-15 19:01:24.405; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-15 19:01:24.453; utils.log; My profile Selected
+INFO  - 2022-03-15 19:01:26.863; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-15 19:01:26.913; utils.log; Delete BUTTON CLICKED 
+INFO  - 2022-03-15 19:01:28.966; utils.log; Save BUTTON CLICKED and Photo is deleted 
+INFO  - 2022-03-15 19:01:30.971; utils.log; End TEST-------------------------- DeleteStudentProfilePicture------------------------
+INFO  - 2022-03-15 19:01:30.972; utils.log; END=PASSED
+INFO  - 2022-03-17 06:30:36.340; utils.log; START=ChangeStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-17 06:30:42.069; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:30:47.082; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 06:30:49.105; utils.log; Login Successful
+INFO  - 2022-03-17 06:30:53.307; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 06:30:53.364; utils.log; My profile Selected
+INFO  - 2022-03-17 06:30:56.141; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-17 06:30:58.230; utils.log; Image Selected 
+INFO  - 2022-03-17 06:31:00.287; utils.log; DONE BUTTON CLICKED 
+INFO  - 2022-03-17 06:31:00.373; utils.log; Save BUTTON CLICKED 
+INFO  - 2022-03-17 06:31:00.374; utils.log; End TEST-------------------------- ChangeStudentProfilePicture------------------------
+INFO  - 2022-03-17 06:31:00.375; utils.log; END=PASSED
+INFO  - 2022-03-17 06:31:51.011; utils.log; START=ChangeStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-17 06:31:56.242; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:32:01.611; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 06:32:03.625; utils.log; Login Successful
+INFO  - 2022-03-17 06:32:07.820; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 06:32:07.878; utils.log; My profile Selected
+INFO  - 2022-03-17 06:32:10.582; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-17 06:32:12.666; utils.log; Image Selected 
+INFO  - 2022-03-17 06:32:14.732; utils.log; DONE BUTTON CLICKED 
+INFO  - 2022-03-17 06:32:14.819; utils.log; Save BUTTON CLICKED 
+INFO  - 2022-03-17 06:32:14.820; utils.log; End TEST-------------------------- ChangeStudentProfilePicture------------------------
+INFO  - 2022-03-17 06:32:14.820; utils.log; END=PASSED
+INFO  - 2022-03-17 06:33:49.504; utils.log; START=DeleteStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-17 06:33:55.073; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:34:00.076; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 06:34:02.250; utils.log; Login Successful
+INFO  - 2022-03-17 06:34:08.350; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 06:34:08.396; utils.log; My profile Selected
+INFO  - 2022-03-17 06:34:10.858; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-17 06:34:10.925; utils.log; Delete BUTTON CLICKED 
+INFO  - 2022-03-17 06:34:12.998; utils.log; Save BUTTON CLICKED and Photo is deleted 
+INFO  - 2022-03-17 06:34:15.002; utils.log; End TEST-------------------------- DeleteStudentProfilePicture------------------------
+INFO  - 2022-03-17 06:34:15.003; utils.log; END=PASSED
+INFO  - 2022-03-17 06:35:08.385; utils.log; START=CandidateProcessingRecommended--------------------------------------------------------------
+INFO  - 2022-03-17 06:35:09.233; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 06:35:13.279; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:35:19.188; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 06:35:21.204; utils.log; Employer Login Successful
+INFO  - 2022-03-17 06:35:25.422; utils.log; Dropdown  Clicked
+INFO  - 2022-03-17 06:35:27.476; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-17 06:35:29.537; utils.log; Open Menu  Clicked
+INFO  - 2022-03-17 06:35:31.674; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-17 06:35:33.721; utils.log; Search Button  Clicked
+INFO  - 2022-03-17 06:35:35.792; utils.log; Job Searched was found
+INFO  - 2022-03-17 06:35:35.841; utils.log; Jobs Selected
+INFO  - 2022-03-17 06:35:46.178; utils.log; Recommended TAB Selected
+INFO  - 2022-03-17 06:35:51.273; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:35:53.402; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:35:55.485; utils.log; Propose  Button   Clicked 
+INFO  - 2022-03-17 06:35:57.579; utils.log; Propose success message is displayed  
+INFO  - 2022-03-17 06:37:04.643; utils.log; END=FAILED
+INFO  - 2022-03-17 06:38:05.646; utils.log; START=CandidateProcessingRecommended--------------------------------------------------------------
+INFO  - 2022-03-17 06:38:06.523; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 06:38:10.776; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:38:16.582; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 06:38:18.602; utils.log; Employer Login Successful
+INFO  - 2022-03-17 06:38:22.859; utils.log; Dropdown  Clicked
+INFO  - 2022-03-17 06:38:24.914; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-17 06:38:26.976; utils.log; Open Menu  Clicked
+INFO  - 2022-03-17 06:38:29.137; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-17 06:38:31.196; utils.log; Search Button  Clicked
+INFO  - 2022-03-17 06:38:33.264; utils.log; Job Searched was found
+INFO  - 2022-03-17 06:38:33.371; utils.log; Jobs Selected
+INFO  - 2022-03-17 06:38:43.562; utils.log; Recommended TAB Selected
+INFO  - 2022-03-17 06:38:48.683; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:38:50.812; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:38:52.896; utils.log; Propose  Button   Clicked 
+INFO  - 2022-03-17 06:38:55.001; utils.log; Propose success message is displayed  
+INFO  - 2022-03-17 06:38:55.003; utils.log; End TEST-------------------------- CandidateProcessingRecommended------------------------
+INFO  - 2022-03-17 06:38:55.003; utils.log; END=PASSED
+INFO  - 2022-03-17 06:43:38.386; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-03-17 06:43:39.318; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 06:43:43.334; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:43:49.250; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 06:43:51.267; utils.log; Employer Login Successful
+INFO  - 2022-03-17 06:43:55.481; utils.log; Dropdown  Clicked
+INFO  - 2022-03-17 06:43:57.561; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-17 06:43:59.613; utils.log; Open Menu  Clicked
+INFO  - 2022-03-17 06:44:01.798; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-17 06:44:03.850; utils.log; Search Button  Clicked
+INFO  - 2022-03-17 06:44:05.914; utils.log; Job Searched was found
+INFO  - 2022-03-17 06:44:05.967; utils.log; Jobs Selected
+INFO  - 2022-03-17 06:44:16.108; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-17 06:44:20.159; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-17 06:44:22.280; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:44:24.417; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:44:28.498; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-17 06:44:32.616; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-17 06:44:34.705; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:44:36.798; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:44:39.187; utils.log; Candidate Moved to Rejected TAB
+INFO  - 2022-03-17 06:44:39.279; utils.log; Rejected TAB Clicked
+INFO  - 2022-03-17 06:44:42.357; utils.log; END=FAILED
+INFO  - 2022-03-17 06:45:22.551; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-03-17 06:45:23.505; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 06:45:27.543; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:45:33.522; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 06:45:35.546; utils.log; Employer Login Successful
+INFO  - 2022-03-17 06:45:39.780; utils.log; Dropdown  Clicked
+INFO  - 2022-03-17 06:45:41.885; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-17 06:45:43.944; utils.log; Open Menu  Clicked
+INFO  - 2022-03-17 06:45:46.139; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-17 06:45:48.211; utils.log; Search Button  Clicked
+INFO  - 2022-03-17 06:45:50.293; utils.log; Job Searched was found
+INFO  - 2022-03-17 06:45:50.395; utils.log; Jobs Selected
+INFO  - 2022-03-17 06:46:00.534; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-17 06:46:04.628; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-17 06:46:06.776; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:46:08.864; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:46:12.921; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-17 06:46:17.028; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-17 06:46:19.106; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:46:21.149; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:46:23.483; utils.log; Candidate Moved to Rejected TAB
+INFO  - 2022-03-17 06:46:23.547; utils.log; Rejected TAB Clicked
+INFO  - 2022-03-17 06:46:24.604; utils.log; END=FAILED
+INFO  - 2022-03-17 06:48:39.965; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-03-17 06:48:41.053; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 06:48:45.631; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:48:51.849; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 06:48:53.865; utils.log; Employer Login Successful
+INFO  - 2022-03-17 06:48:58.107; utils.log; Dropdown  Clicked
+INFO  - 2022-03-17 06:49:00.197; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-17 06:49:02.256; utils.log; Open Menu  Clicked
+INFO  - 2022-03-17 06:49:04.529; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-17 06:49:06.609; utils.log; Search Button  Clicked
+INFO  - 2022-03-17 06:49:08.671; utils.log; Job Searched was found
+INFO  - 2022-03-17 06:49:08.719; utils.log; Jobs Selected
+INFO  - 2022-03-17 06:49:18.831; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-17 06:49:22.885; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-17 06:49:25.024; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:49:27.106; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:49:31.205; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-17 06:49:35.333; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-17 06:49:37.426; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:49:39.515; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:49:41.888; utils.log; Candidate Moved to Rejected TAB
+INFO  - 2022-03-17 06:49:43.060; utils.log; END=FAILED
+INFO  - 2022-03-17 06:54:18.855; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-03-17 06:54:19.850; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 06:54:23.823; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:54:29.751; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 06:54:31.767; utils.log; Employer Login Successful
+INFO  - 2022-03-17 06:54:35.995; utils.log; Dropdown  Clicked
+INFO  - 2022-03-17 06:54:38.052; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-17 06:54:40.105; utils.log; Open Menu  Clicked
+INFO  - 2022-03-17 06:54:42.301; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-17 06:54:44.353; utils.log; Search Button  Clicked
+INFO  - 2022-03-17 06:54:46.411; utils.log; Job Searched was found
+INFO  - 2022-03-17 06:54:46.476; utils.log; Jobs Selected
+INFO  - 2022-03-17 06:54:56.600; utils.log; Rejected TAB Clicked
+INFO  - 2022-03-17 06:54:57.823; utils.log; END=FAILED
+INFO  - 2022-03-17 06:56:27.620; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-03-17 06:56:28.496; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 06:56:32.545; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:56:38.524; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 06:56:40.540; utils.log; Employer Login Successful
+INFO  - 2022-03-17 06:56:44.786; utils.log; Dropdown  Clicked
+INFO  - 2022-03-17 06:56:46.846; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-17 06:56:48.909; utils.log; Open Menu  Clicked
+INFO  - 2022-03-17 06:56:51.057; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-17 06:56:53.119; utils.log; Search Button  Clicked
+INFO  - 2022-03-17 06:56:55.183; utils.log; Job Searched was found
+INFO  - 2022-03-17 06:56:55.310; utils.log; Jobs Selected
+INFO  - 2022-03-17 06:57:09.439; utils.log; Rejected TAB Clicked
+INFO  - 2022-03-17 06:57:09.551; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:57:13.658; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:57:15.711; utils.log; All Actions Options Available on the Rejected TAB
+INFO  - 2022-03-17 06:57:15.713; utils.log; End TEST-------------------------- CandidateProcessingRejectedTAB------------------------
+INFO  - 2022-03-17 06:57:15.713; utils.log; END=PASSED
+INFO  - 2022-03-17 06:57:52.868; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-03-17 06:57:53.755; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 06:57:57.599; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 06:58:03.567; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 06:58:05.587; utils.log; Employer Login Successful
+INFO  - 2022-03-17 06:58:09.803; utils.log; Dropdown  Clicked
+INFO  - 2022-03-17 06:58:11.856; utils.log; Jobs Menu  Clicked
+INFO  - 2022-03-17 06:58:13.918; utils.log; Open Menu  Clicked
+INFO  - 2022-03-17 06:58:16.075; utils.log; Job Title entered into Search Box
+INFO  - 2022-03-17 06:58:18.153; utils.log; Search Button  Clicked
+INFO  - 2022-03-17 06:58:20.220; utils.log; Job Searched was found
+INFO  - 2022-03-17 06:58:20.334; utils.log; Jobs Selected
+INFO  - 2022-03-17 06:58:30.470; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-17 06:58:34.520; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-03-17 06:58:36.646; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:58:38.721; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:58:42.789; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-17 06:58:46.913; utils.log; Send Offer Action  Clicked
+INFO  - 2022-03-17 06:58:48.982; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:58:51.029; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:58:53.351; utils.log; Candidate Moved to Rejected TAB
+INFO  - 2022-03-17 06:58:57.421; utils.log; Rejected TAB Clicked
+INFO  - 2022-03-17 06:58:57.529; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-03-17 06:59:01.578; utils.log; Actions Buttons  Clicked
+INFO  - 2022-03-17 06:59:03.641; utils.log; All Actions Options Available on the Rejected TAB
+INFO  - 2022-03-17 06:59:03.642; utils.log; End TEST-------------------------- CandidateProcessingRejectedTAB------------------------
+INFO  - 2022-03-17 06:59:03.643; utils.log; END=PASSED
+INFO  - 2022-03-17 06:59:50.182; utils.log; START=EmpFilterTalents--------------------------------------------------------------
+INFO  - 2022-03-17 06:59:51.476; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 06:59:57.007; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 07:00:02.927; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 07:00:04.942; utils.log; Employer Login Successful
+INFO  - 2022-03-17 07:00:09.860; utils.log; Talent Menu  Clicked
+INFO  - 2022-03-17 07:00:12.007; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:00:14.223; utils.log; Skills Filter Seleted 
+INFO  - 2022-03-17 07:00:16.392; utils.log; University Filter Seleted 
+INFO  - 2022-03-17 07:00:20.516; utils.log; Apply Button Clicked and   values displayed
+INFO  - 2022-03-17 07:01:00.554; utils.log; END=FAILED
+INFO  - 2022-03-17 07:05:42.685; utils.log; START=EmpFilterTalents--------------------------------------------------------------
+INFO  - 2022-03-17 07:05:43.640; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 07:05:47.728; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 07:05:53.629; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 07:05:55.645; utils.log; Employer Login Successful
+INFO  - 2022-03-17 07:06:00.603; utils.log; Talent Menu  Clicked
+INFO  - 2022-03-17 07:06:02.744; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:06:04.885; utils.log; Skills Filter Seleted 
+INFO  - 2022-03-17 07:06:07.027; utils.log; University Filter Seleted 
+INFO  - 2022-03-17 07:06:13.158; utils.log; Apply Button Clicked and   values displayed
+INFO  - 2022-03-17 07:06:13.254; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:06:15.358; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:06:17.508; utils.log; Experience Filter Seleted 
+INFO  - 2022-03-17 07:06:19.666; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:06:19.682; utils.log; Apply Filter Button Clicked and Experience values displayed
+INFO  - 2022-03-17 07:06:23.896; utils.log; Skills Filter Seleted 
+INFO  - 2022-03-17 07:06:26.088; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:06:26.097; utils.log; Apply Filter Button Clicked and Skills values displayed
+INFO  - 2022-03-17 07:06:28.162; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:06:30.310; utils.log; University Filter Seleted 
+INFO  - 2022-03-17 07:06:32.472; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:06:32.491; utils.log; Apply Filter Button Clicked and University values displayed
+INFO  - 2022-03-17 07:06:34.569; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:07:14.605; utils.log; END=FAILED
+INFO  - 2022-03-17 07:09:29.207; utils.log; START=EmpFilterTalents--------------------------------------------------------------
+INFO  - 2022-03-17 07:09:30.096; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 07:09:34.083; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 07:09:40.009; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 07:09:42.023; utils.log; Employer Login Successful
+INFO  - 2022-03-17 07:09:46.841; utils.log; Talent Menu  Clicked
+INFO  - 2022-03-17 07:09:48.932; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:09:51.069; utils.log; Skills Filter Seleted 
+INFO  - 2022-03-17 07:09:53.215; utils.log; University Filter Seleted 
+INFO  - 2022-03-17 07:09:59.343; utils.log; Apply Button Clicked and   values displayed
+INFO  - 2022-03-17 07:09:59.426; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:10:01.528; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:10:03.661; utils.log; Experience Filter Seleted 
+INFO  - 2022-03-17 07:10:05.781; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:10:05.792; utils.log; Apply Filter Button Clicked and Experience values displayed
+INFO  - 2022-03-17 07:10:10.017; utils.log; Skills Filter Seleted 
+INFO  - 2022-03-17 07:10:12.159; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:10:12.172; utils.log; Apply Filter Button Clicked and Skills values displayed
+INFO  - 2022-03-17 07:10:14.237; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:10:16.436; utils.log; University Filter Seleted 
+INFO  - 2022-03-17 07:10:18.605; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:10:18.662; utils.log; Apply Filter Button Clicked and University values displayed
+INFO  - 2022-03-17 07:10:20.737; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:10:22.860; utils.log; Major Filter Seleted 
+INFO  - 2022-03-17 07:10:27.034; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:10:27.042; utils.log; Apply Filter Button Clicked and Major values displayed
+INFO  - 2022-03-17 07:10:29.111; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:10:31.259; utils.log; Degree Filter Seleted 
+INFO  - 2022-03-17 07:10:35.416; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:10:35.423; utils.log; Apply Filter Button Clicked and Degree values displayed
+INFO  - 2022-03-17 07:10:37.502; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:10:39.587; utils.log; Degree Filter Seleted 
+INFO  - 2022-03-17 07:10:45.737; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:10:45.755; utils.log; Apply   Button Clicked and GPA values displayed
+INFO  - 2022-03-17 07:10:47.792; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:10:49.958; utils.log; Grad Year Filter clicked 
+INFO  - 2022-03-17 07:10:50.022; utils.log; Grad Year Filter Seleted 
+INFO  - 2022-03-17 07:10:54.232; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:10:54.301; utils.log; Apply   Button Clicked and GPA values displayed
+INFO  - 2022-03-17 07:10:56.477; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:10:58.628; utils.log; Country Filter Seleted 
+INFO  - 2022-03-17 07:11:02.819; utils.log; Apply Button Clicked and Nationality  values displayed
+INFO  - 2022-03-17 07:11:42.850; utils.log; END=FAILED
+INFO  - 2022-03-17 07:13:56.697; utils.log; START=EmpFilterTalents--------------------------------------------------------------
+INFO  - 2022-03-17 07:13:57.585; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 07:14:02.817; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 07:14:08.697; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 07:14:10.712; utils.log; Employer Login Successful
+INFO  - 2022-03-17 07:14:15.692; utils.log; Talent Menu  Clicked
+INFO  - 2022-03-17 07:14:17.796; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:14:19.914; utils.log; Skills Filter Seleted 
+INFO  - 2022-03-17 07:14:22.080; utils.log; University Filter Seleted 
+INFO  - 2022-03-17 07:14:28.203; utils.log; Apply Button Clicked and   values displayed
+INFO  - 2022-03-17 07:14:28.385; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:14:30.476; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:14:32.641; utils.log; Experience Filter Seleted 
+INFO  - 2022-03-17 07:14:34.758; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:14:34.779; utils.log; Apply Filter Button Clicked and Experience values displayed
+INFO  - 2022-03-17 07:14:39.000; utils.log; Skills Filter Seleted 
+INFO  - 2022-03-17 07:14:41.175; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:14:41.185; utils.log; Apply Filter Button Clicked and Skills values displayed
+INFO  - 2022-03-17 07:14:43.262; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:14:45.499; utils.log; University Filter Seleted 
+INFO  - 2022-03-17 07:14:47.647; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:14:47.655; utils.log; Apply Filter Button Clicked and University values displayed
+INFO  - 2022-03-17 07:14:49.716; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:14:51.842; utils.log; Major Filter Seleted 
+INFO  - 2022-03-17 07:14:55.989; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:14:56.011; utils.log; Apply Filter Button Clicked and Major values displayed
+INFO  - 2022-03-17 07:14:58.113; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:15:00.277; utils.log; Degree Filter Seleted 
+INFO  - 2022-03-17 07:15:04.401; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:15:04.434; utils.log; Apply Filter Button Clicked and Degree values displayed
+INFO  - 2022-03-17 07:15:06.499; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:15:08.578; utils.log; Degree Filter Seleted 
+INFO  - 2022-03-17 07:15:14.771; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:15:14.782; utils.log; Apply   Button Clicked and GPA values displayed
+INFO  - 2022-03-17 07:15:16.818; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:15:18.934; utils.log; Grad Year Filter clicked 
+INFO  - 2022-03-17 07:15:18.980; utils.log; Grad Year Filter Seleted 
+INFO  - 2022-03-17 07:15:23.145; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:15:23.155; utils.log; Apply   Button Clicked and GPA values displayed
+INFO  - 2022-03-17 07:15:25.278; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:15:27.396; utils.log; Country Filter Seleted 
+INFO  - 2022-03-17 07:15:31.519; utils.log; Apply Button Clicked and Nationality  values displayed
+INFO  - 2022-03-17 07:15:31.584; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:15:33.691; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:15:37.812; utils.log; Gender Filter Seleted 
+INFO  - 2022-03-17 07:15:39.967; utils.log; Show Filter Button  Clicked
+INFO  - 2022-03-17 07:15:39.974; utils.log; Apply Filter Button Clicked and Gender values displayed
+INFO  - 2022-03-17 07:15:42.107; utils.log; Clear Filter Button Clicked
+INFO  - 2022-03-17 07:15:42.107; utils.log; End TEST-------------------------- EmpFilterTalents------------------------
+INFO  - 2022-03-17 07:15:42.107; utils.log; END=PASSED
+WARN  - 2022-03-17 07:15:42.991; org.asynchttpclient.netty.handler.WebSocketHandler; onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  - 2022-03-17 07:20:30.688; utils.log; START=BasicEmployerGetPremiumAccess--------------------------------------------------------------
+INFO  - 2022-03-17 07:20:31.665; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 07:20:36.294; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 07:20:42.148; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 07:20:44.170; utils.log; Employer Login Successful
+INFO  - 2022-03-17 07:20:48.881; utils.log; Basic Emp Dashboard Menu  Clicked
+INFO  - 2022-03-17 07:20:50.927; utils.log; Basic Employer Dashboard Menu  Opened
+INFO  - 2022-03-17 07:20:52.032; utils.log; Get Premium Access Button Clicked 
+INFO  - 2022-03-17 07:20:52.046; utils.log; Account Settings Page Opened 
+INFO  - 2022-03-17 07:21:32.135; utils.log; END=FAILED
+INFO  - 2022-03-17 07:24:02.835; utils.log; START=BasicEmployerGetPremiumAccess--------------------------------------------------------------
+INFO  - 2022-03-17 07:24:03.819; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 07:24:08.027; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 07:24:13.851; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 07:24:15.865; utils.log; Employer Login Successful
+INFO  - 2022-03-17 07:24:20.577; utils.log; Basic Emp Dashboard Menu  Clicked
+INFO  - 2022-03-17 07:24:22.592; utils.log; Basic Employer Dashboard Menu  Opened
+INFO  - 2022-03-17 07:24:23.520; utils.log; Get Premium Access Button Clicked 
+INFO  - 2022-03-17 07:24:23.551; utils.log; Account Settings Page Opened 
+INFO  - 2022-03-17 07:24:23.579; utils.log; End TEST-------------------------- BasicEmployerGetPremiumAccess------------------------
+INFO  - 2022-03-17 07:24:23.580; utils.log; END=PASSED
+INFO  - 2022-03-17 09:05:13.168; utils.log; START=AddEmployerLocation--------------------------------------------------------------
+INFO  - 2022-03-17 09:05:13.992; utils.log; Chrome browser is Selected 
+INFO  - 2022-03-17 09:05:19.176; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 09:05:25.055; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-17 09:05:27.073; utils.log; Employer Login Successful
+INFO  - 2022-03-17 09:05:30.038; utils.log; Employer Profile Menu Clicked
+INFO  - 2022-03-17 09:05:34.134; utils.log; Location Menu Selected
+INFO  - 2022-03-17 09:05:36.255; utils.log; Add New location  Clicked
+INFO  - 2022-03-17 09:05:45.099; utils.log; Title Address, City , Country and Address Entered
+INFO  - 2022-03-17 09:05:45.199; utils.log; Add Button Clicked
+INFO  - 2022-03-17 09:05:47.255; utils.log; Location Was Created Succesfully 
+INFO  - 2022-03-17 09:05:47.256; utils.log; End TEST-------------------------- EMPAddEmployerLocation------------------------
+INFO  - 2022-03-17 09:05:47.257; utils.log; END=PASSED
+INFO  - 2022-03-17 10:27:04.947; utils.log; START=DeleteStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-17 10:27:09.609; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 10:27:14.521; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 10:27:16.539; utils.log; Login Successful
+INFO  - 2022-03-17 10:27:22.614; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 10:27:22.666; utils.log; My profile Selected
+INFO  - 2022-03-17 10:27:25.068; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-17 10:28:05.120; utils.log; END=FAILED
+INFO  - 2022-03-17 10:36:11.077; utils.log; START=DeleteStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-17 10:36:15.538; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 10:36:20.412; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 10:36:22.434; utils.log; Login Successful
+INFO  - 2022-03-17 10:36:26.587; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 10:36:26.635; utils.log; My profile Selected
+INFO  - 2022-03-17 10:36:29.365; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-17 10:36:31.424; utils.log; Image Selected 
+INFO  - 2022-03-17 10:36:33.479; utils.log; DONE BUTTON CLICKED 
+INFO  - 2022-03-17 10:36:33.536; utils.log; Save BUTTON CLICKED 
+INFO  - 2022-03-17 10:37:15.585; utils.log; END=FAILED
+INFO  - 2022-03-17 10:40:27.527; utils.log; START=DeleteStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-17 10:40:32.611; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 10:40:37.938; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 10:40:39.957; utils.log; Login Successful
+INFO  - 2022-03-17 10:40:44.126; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 10:40:44.174; utils.log; My profile Selected
+INFO  - 2022-03-17 10:40:47.277; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-17 10:40:49.340; utils.log; Image Selected 
+INFO  - 2022-03-17 10:40:51.414; utils.log; DONE BUTTON CLICKED 
+INFO  - 2022-03-17 10:40:51.483; utils.log; Save BUTTON CLICKED 
+INFO  - 2022-03-17 10:41:33.523; utils.log; END=FAILED
+INFO  - 2022-03-17 10:42:46.089; utils.log; START=DeleteStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-17 10:42:51.083; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 10:42:56.257; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 10:42:58.280; utils.log; Login Successful
+INFO  - 2022-03-17 10:43:02.470; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 10:43:02.537; utils.log; My profile Selected
+INFO  - 2022-03-17 10:43:05.455; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-17 10:43:07.511; utils.log; Image Selected 
+INFO  - 2022-03-17 10:43:09.582; utils.log; DONE BUTTON CLICKED 
+INFO  - 2022-03-17 10:43:09.670; utils.log; Save BUTTON CLICKED 
+INFO  - 2022-03-17 10:43:11.731; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-17 10:43:13.786; utils.log; Delete BUTTON CLICKED 
+INFO  - 2022-03-17 10:43:15.836; utils.log; Save BUTTON CLICKED and Photo is deleted 
+INFO  - 2022-03-17 10:43:17.837; utils.log; End TEST-------------------------- DeleteStudentProfilePicture------------------------
+INFO  - 2022-03-17 10:43:17.840; utils.log; END=PASSED
+INFO  - 2022-03-17 10:44:34.805; utils.log; START=StudentsSaveJob--------------------------------------------------------------
+INFO  - 2022-03-17 10:44:40.208; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 10:44:45.288; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 10:44:47.396; utils.log; Login Successful
+INFO  - 2022-03-17 10:44:49.605; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 10:44:49.652; utils.log; Jobs Menu Selected
+INFO  - 2022-03-17 10:44:51.713; utils.log; Jobs Page displayed
+INFO  - 2022-03-17 10:44:55.960; utils.log; Job Title entered and Search Button Clicked 
+INFO  - 2022-03-17 10:44:58.014; utils.log; Save Job Button Clicked
+INFO  - 2022-03-17 10:45:02.121; utils.log; Saved Job Menu Clicked
+INFO  - 2022-03-17 10:45:42.256; utils.log; END=FAILED
+INFO  - 2022-03-17 10:50:16.126; utils.log; START=StudentsSaveJob--------------------------------------------------------------
+INFO  - 2022-03-17 10:50:21.161; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 10:50:26.665; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 10:50:28.694; utils.log; Login Successful
+INFO  - 2022-03-17 10:50:30.863; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 10:50:30.906; utils.log; Jobs Menu Selected
+INFO  - 2022-03-17 10:50:32.970; utils.log; Jobs Page displayed
+INFO  - 2022-03-17 10:50:37.159; utils.log; Job Title entered and Search Button Clicked 
+INFO  - 2022-03-17 10:50:39.219; utils.log; Save Job Button Clicked
+INFO  - 2022-03-17 10:50:43.323; utils.log; Saved Job Menu Clicked
+INFO  - 2022-03-17 10:51:23.441; utils.log; END=FAILED
+INFO  - 2022-03-17 10:53:57.869; utils.log; START=ChangeStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-17 10:54:03.415; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 10:54:08.469; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 10:54:10.483; utils.log; Login Successful
+INFO  - 2022-03-17 10:54:14.668; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 10:54:14.720; utils.log; My profile Selected
+INFO  - 2022-03-17 10:54:17.792; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-17 10:54:19.845; utils.log; Image Selected 
+INFO  - 2022-03-17 10:54:21.895; utils.log; DONE BUTTON CLICKED 
+INFO  - 2022-03-17 10:54:21.944; utils.log; Save BUTTON CLICKED 
+INFO  - 2022-03-17 10:54:21.944; utils.log; End TEST-------------------------- ChangeStudentProfilePicture------------------------
+INFO  - 2022-03-17 10:54:21.945; utils.log; END=PASSED
+INFO  - 2022-03-17 10:58:28.731; utils.log; START=StudentsSaveJob--------------------------------------------------------------
+INFO  - 2022-03-17 10:58:35.272; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 10:58:40.627; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 10:58:42.799; utils.log; Login Successful
+INFO  - 2022-03-17 10:58:45.041; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 10:58:45.140; utils.log; Jobs Menu Selected
+INFO  - 2022-03-17 10:58:47.205; utils.log; Jobs Page displayed
+INFO  - 2022-03-17 10:58:51.491; utils.log; Job Title entered and Search Button Clicked 
+INFO  - 2022-03-17 10:58:53.609; utils.log; Save Job Button Clicked
+INFO  - 2022-03-17 10:58:57.728; utils.log; Saved Job Menu Clicked
+INFO  - 2022-03-17 10:59:37.863; utils.log; END=FAILED
+INFO  - 2022-03-17 11:00:34.392; utils.log; START=StudentsSaveJob--------------------------------------------------------------
+INFO  - 2022-03-17 11:00:39.893; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-17 11:00:45.416; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-17 11:00:47.435; utils.log; Login Successful
+INFO  - 2022-03-17 11:00:49.627; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-17 11:00:49.675; utils.log; Jobs Menu Selected
+INFO  - 2022-03-17 11:00:51.761; utils.log; Jobs Page displayed
+INFO  - 2022-03-17 11:00:56.010; utils.log; Job Title entered and Search Button Clicked 
+INFO  - 2022-03-17 11:00:58.076; utils.log; Save Job Button Clicked
+INFO  - 2022-03-17 11:01:02.152; utils.log; Saved Job Menu Clicked
+INFO  - 2022-03-17 11:01:04.424; utils.log; UnSave Job Button Clicked
+INFO  - 2022-03-17 11:01:04.425; utils.log; End TEST-------------------------- StudentsSaveJob------------------------
+INFO  - 2022-03-17 11:01:04.425; utils.log; END=PASSED
+INFO  - 2022-03-18 07:45:24.956; utils.log; START=DeleteStudentProfilePicture--------------------------------------------------------------
+INFO  - 2022-03-18 07:45:31.063; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-18 07:45:36.236; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-18 07:45:38.250; utils.log; Login Successful
+INFO  - 2022-03-18 07:45:42.438; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-18 07:45:42.497; utils.log; My profile Selected
+INFO  - 2022-03-18 07:45:45.263; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-18 07:45:47.333; utils.log; Image Selected 
+INFO  - 2022-03-18 07:45:49.399; utils.log; DONE BUTTON CLICKED 
+INFO  - 2022-03-18 07:45:49.469; utils.log; Save BUTTON CLICKED 
+INFO  - 2022-03-18 07:45:51.542; utils.log; Edit Basic Info Clicked
+INFO  - 2022-03-18 07:45:53.594; utils.log; Delete BUTTON CLICKED 
+INFO  - 2022-03-18 07:45:55.646; utils.log; Save BUTTON CLICKED and Photo is deleted 
+INFO  - 2022-03-18 07:45:57.649; utils.log; End TEST-------------------------- DeleteStudentProfilePicture------------------------
+INFO  - 2022-03-18 07:45:57.649; utils.log; END=PASSED
+INFO  - 2022-03-18 07:46:38.377; utils.log; START=StudentsSaveJob--------------------------------------------------------------
+INFO  - 2022-03-18 07:46:43.533; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-18 07:46:48.481; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-18 07:46:50.501; utils.log; Login Successful
+INFO  - 2022-03-18 07:46:52.677; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-18 07:46:52.765; utils.log; Jobs Menu Selected
+INFO  - 2022-03-18 07:46:54.829; utils.log; Jobs Page displayed
+INFO  - 2022-03-18 07:46:59.054; utils.log; Job Title entered and Search Button Clicked 
+INFO  - 2022-03-18 07:47:01.103; utils.log; Save Job Button Clicked
+INFO  - 2022-03-18 07:47:05.173; utils.log; Saved Job Menu Clicked
+INFO  - 2022-03-18 07:47:07.331; utils.log; UnSave Job Button Clicked
+INFO  - 2022-03-18 07:47:07.331; utils.log; End TEST-------------------------- StudentsSaveJob------------------------
+INFO  - 2022-03-18 07:47:07.332; utils.log; END=PASSED
+INFO  - 2022-03-18 07:47:31.519; utils.log; START=TermsandServicePage--------------------------------------------------------------
+INFO  - 2022-03-18 07:47:36.845; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-18 07:47:41.729; utils.log; Username , Password  and Sign In Button Entered  
+INFO  - 2022-03-18 07:47:43.864; utils.log; Login Successful
+INFO  - 2022-03-18 07:47:45.987; utils.log; Menu Dropdown Clicked
+INFO  - 2022-03-18 07:47:46.068; utils.log; My profile Selected
+INFO  - 2022-03-18 07:47:48.774; utils.log; Edit Basic Information Button Clicked 
+INFO  - 2022-03-18 07:47:50.873; utils.log; Terms and Service Link Clicked
+INFO  - 2022-03-18 07:47:50.889; utils.log; Terms and Conditions Sections Validated (Introduction, Contract, Members
+INFO  - 2022-03-18 07:47:50.889; utils.log; End TEST-------------------------- TermsandServicePage------------------------
+INFO  - 2022-03-18 07:47:50.890; utils.log; END=PASSED
+INFO  - 2022-03-18 07:49:00.678; utils.log; START=UniStudentsHomepage--------------------------------------------------------------
+INFO  - 2022-03-18 07:49:07.037; utils.log; Test Execution Started On Dev
+INFO  - 2022-03-18 07:49:12.127; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-03-18 07:49:16.157; utils.log; University Login Successful
+INFO  - 2022-03-18 07:49:18.184; utils.log; Menu Dropdown Available
+INFO  - 2022-03-18 07:49:21.049; utils.log; Students Menu   Clicked 
+INFO  - 2022-03-18 07:49:23.128; utils.log; All Students Filters Validated 
+INFO  - 2022-03-18 07:49:25.431; utils.log; All Students Table Headers Validated  
+INFO  - 2022-03-18 07:49:25.432; utils.log; End TEST--------------------------UniStudentsHomepage------------------------
+INFO  - 2022-03-18 07:49:25.432; utils.log; END=PASSED
+INFO  - 2022-04-13 10:20:46.762; utils.log; START=CandidateProcessingFilters--------------------------------------------------------------
+INFO  - 2022-04-13 10:20:47.498; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:20:52.587; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:20:55.712; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:21:01.984; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:21:04.007; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:21:08.244; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:21:10.308; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:21:12.367; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:21:14.629; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:21:16.730; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:21:18.787; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:21:58.860; utils.log; END=FAILED
+INFO  - 2022-04-13 10:22:00.641; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-04-13 10:22:00.780; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:22:03.116; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:22:05.513; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:22:11.780; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:22:13.803; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:22:17.985; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:22:20.041; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:22:22.135; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:22:24.326; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:22:26.386; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:22:28.469; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:23:08.528; utils.log; END=FAILED
+INFO  - 2022-04-13 10:23:10.014; utils.log; START=CandidateProcessingAppliedTAB--------------------------------------------------------------
+INFO  - 2022-04-13 10:23:10.127; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:23:12.265; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:23:14.874; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:23:21.157; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:23:23.187; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:23:27.394; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:23:29.451; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:23:31.503; utils.log; Open Jobs Menu  Clicked
+INFO  - 2022-04-13 10:23:33.752; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:23:35.858; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:23:37.895; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:24:17.942; utils.log; END=FAILED
+INFO  - 2022-04-13 10:30:44.569; utils.log; START=CandidateProcessingAppliedTAB--------------------------------------------------------------
+INFO  - 2022-04-13 10:30:45.259; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:30:48.804; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:30:51.364; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:30:57.735; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:30:59.757; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:31:03.985; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:31:06.048; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:31:08.099; utils.log; Open Jobs Menu  Clicked
+INFO  - 2022-04-13 10:31:10.365; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:31:12.464; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:31:14.532; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:31:28.991; utils.log; END=FAILED
+INFO  - 2022-04-13 10:32:59.224; utils.log; START=CandidateProcessingFavoriteTab--------------------------------------------------------------
+INFO  - 2022-04-13 10:32:59.984; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:33:02.987; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:33:05.737; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:33:12.002; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:33:14.027; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:33:18.211; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:33:20.270; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:33:22.324; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:33:24.511; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:33:26.617; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:33:28.690; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:33:28.744; utils.log; Jobs Selected
+INFO  - 2022-04-13 10:33:36.859; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-04-13 10:33:40.937; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:33:42.999; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:33:45.062; utils.log; All Actions Options Available on the Favorite TAB
+INFO  - 2022-04-13 10:33:45.062; utils.log; End TEST-------------------------- CandidateProcessingFavoriteTab------------------------
+INFO  - 2022-04-13 10:33:45.062; utils.log; END=PASSED
+INFO  - 2022-04-13 10:33:46.518; utils.log; START=CandidateProcessingAppliedTAB--------------------------------------------------------------
+INFO  - 2022-04-13 10:33:46.683; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:33:48.648; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:33:51.432; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:33:57.695; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:33:59.715; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:34:03.921; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:34:05.980; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:34:08.028; utils.log; Open Jobs Menu  Clicked
+INFO  - 2022-04-13 10:34:10.241; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:34:12.390; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:34:14.457; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:34:14.547; utils.log; Jobs Selected
+INFO  - 2022-04-13 10:34:17.662; utils.log; Recommended TAB Selected
+INFO  - 2022-04-13 10:34:21.908; utils.log; Applied TAB Selected
+INFO  - 2022-04-13 10:35:19.317; utils.log; END=FAILED
+INFO  - 2022-04-13 10:37:15.434; utils.log; START=CandidateProcessingInterviewTAB--------------------------------------------------------------
+INFO  - 2022-04-13 10:37:16.129; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:37:19.940; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:37:21.932; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:37:28.233; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:37:30.317; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:37:34.539; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:37:36.596; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:37:38.651; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:37:40.839; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:37:42.939; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:37:45.007; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:37:45.066; utils.log; Jobs Selected
+INFO  - 2022-04-13 10:37:55.189; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-04-13 10:37:59.237; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-04-13 10:38:01.312; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:38:03.376; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:38:05.442; utils.log; Candidate Selected for Interview 
+INFO  - 2022-04-13 10:38:07.982; utils.log; Interviewing TAB  Clicked
+INFO  - 2022-04-13 10:38:10.057; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:38:12.108; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:38:14.164; utils.log; All Actions Options Available on the Interview TAB
+INFO  - 2022-04-13 10:38:14.165; utils.log; End TEST-------------------------- CandidateProcessingInterviewTAB------------------------
+INFO  - 2022-04-13 10:38:14.165; utils.log; END=PASSED
+INFO  - 2022-04-13 10:38:15.496; utils.log; START=CandidateProcessingHiredTAB--------------------------------------------------------------
+INFO  - 2022-04-13 10:38:15.636; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:38:17.534; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:38:19.883; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:38:26.313; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:38:28.334; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:38:32.547; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:38:34.602; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:38:36.655; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:38:38.814; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:38:40.868; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:38:42.903; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:38:42.947; utils.log; Jobs Selected
+INFO  - 2022-04-13 10:38:53.028; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-04-13 10:38:57.122; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:38:59.188; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:39:01.258; utils.log; Send Offer Action  Clicked
+INFO  - 2022-04-13 10:39:03.352; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:39:05.392; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:39:07.909; utils.log; Candidate Moved to Hired TABS
+INFO  - 2022-04-13 10:39:10.000; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:39:12.052; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:39:14.099; utils.log; All Actions Options Available on the Hired TAB
+INFO  - 2022-04-13 10:39:14.099; utils.log; End TEST-------------------------- CandidateProcessingHiredTAB------------------------
+INFO  - 2022-04-13 10:39:14.099; utils.log; END=PASSED
+INFO  - 2022-04-13 10:39:15.226; utils.log; START=CandidateProcessingFilters--------------------------------------------------------------
+INFO  - 2022-04-13 10:39:15.367; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:39:16.994; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:39:19.686; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:39:25.748; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:39:27.772; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:39:31.990; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:39:34.047; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:39:36.098; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:39:38.200; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:39:40.259; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:39:42.293; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:39:42.350; utils.log; Jobs Selected
+INFO  - 2022-04-13 10:39:47.480; utils.log; Recommended TAB Selected
+INFO  - 2022-04-13 10:39:50.568; utils.log; Show Filter Selected
+INFO  - 2022-04-13 10:39:52.872; utils.log; First Name entered
+INFO  - 2022-04-13 10:39:53.006; utils.log; Apply Filter Button Clicked 
+INFO  - 2022-04-13 10:39:55.070; utils.log; Name filtered successfully
+INFO  - 2022-04-13 10:40:37.136; utils.log; END=FAILED
+INFO  - 2022-04-13 10:40:38.566; utils.log; START=CandidateProcessingOfferSentTAB--------------------------------------------------------------
+INFO  - 2022-04-13 10:40:38.628; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:40:40.406; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:40:43.238; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:40:49.328; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:40:51.361; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:40:55.552; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:40:57.607; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:40:59.655; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:41:01.757; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:41:03.809; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:41:05.840; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:41:05.883; utils.log; Jobs Selected
+INFO  - 2022-04-13 10:41:15.983; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-04-13 10:41:20.029; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-04-13 10:41:22.094; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:41:24.154; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:41:26.216; utils.log; Send Offer Action  Clicked
+INFO  - 2022-04-13 10:41:28.294; utils.log; Send Offer Action  Clicked
+INFO  - 2022-04-13 10:41:30.368; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:41:32.419; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:41:34.474; utils.log; All Actions Options Available on the Send Offer TAB
+INFO  - 2022-04-13 10:41:34.475; utils.log; End TEST-------------------------- CandidateProcessingOfferSentTAB------------------------
+INFO  - 2022-04-13 10:41:34.475; utils.log; END=PASSED
+INFO  - 2022-04-13 10:41:35.417; utils.log; START=CandidateProcessingRejectedTAB--------------------------------------------------------------
+INFO  - 2022-04-13 10:41:35.501; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:41:37.282; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:41:39.784; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:41:46.043; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:41:48.065; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:41:52.257; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:41:54.311; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:41:56.373; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:41:58.488; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:42:00.553; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:42:02.588; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:42:02.631; utils.log; Jobs Selected
+INFO  - 2022-04-13 10:42:12.729; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-04-13 10:42:16.837; utils.log; Favorite TAB   Clicked 
+INFO  - 2022-04-13 10:42:18.927; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:42:20.997; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:42:25.072; utils.log; Send Offer Action  Clicked
+INFO  - 2022-04-13 10:42:29.189; utils.log; Send Offer Action  Clicked
+INFO  - 2022-04-13 10:42:31.258; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:42:33.308; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:42:35.882; utils.log; Candidate Moved to Rejected TAB
+INFO  - 2022-04-13 10:42:39.977; utils.log; Rejected TAB Clicked
+INFO  - 2022-04-13 10:42:40.055; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:42:44.118; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:42:46.172; utils.log; All Actions Options Available on the Rejected TAB
+INFO  - 2022-04-13 10:42:46.173; utils.log; End TEST-------------------------- CandidateProcessingRejectedTAB------------------------
+INFO  - 2022-04-13 10:42:46.173; utils.log; END=PASSED
+INFO  - 2022-04-13 10:42:47.203; utils.log; START=CandidateProcessingProposedTAB--------------------------------------------------------------
+INFO  - 2022-04-13 10:42:47.314; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:42:49.048; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:42:51.886; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:42:58.048; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:43:00.068; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:43:04.264; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:43:06.321; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:43:08.389; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:43:10.515; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:43:12.581; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:43:14.630; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:43:14.685; utils.log; Jobs Selected
+INFO  - 2022-04-13 10:43:17.810; utils.log; Proposed TAB Selected
+INFO  - 2022-04-13 10:43:20.899; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:43:22.964; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:43:24.981; utils.log; No Actions Available for Proposed Jobs
+INFO  - 2022-04-13 10:43:24.981; utils.log; End TEST-------------------------- CandidateProcessingProposedTAB------------------------
+INFO  - 2022-04-13 10:43:24.982; utils.log; END=PASSED
+INFO  - 2022-04-13 10:43:26.057; utils.log; START=CandidateProcessingRecommended--------------------------------------------------------------
+INFO  - 2022-04-13 10:43:26.162; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:43:27.811; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-13 10:43:30.258; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-13 10:43:36.439; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-13 10:43:38.462; utils.log; Employer Login Successful
+INFO  - 2022-04-13 10:43:42.624; utils.log; Dropdown  Clicked
+INFO  - 2022-04-13 10:43:44.684; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-13 10:43:46.734; utils.log; Open Menu  Clicked
+INFO  - 2022-04-13 10:43:48.881; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-13 10:43:50.938; utils.log; Search Button  Clicked
+INFO  - 2022-04-13 10:43:52.975; utils.log; Job Searched was found
+INFO  - 2022-04-13 10:43:53.016; utils.log; Jobs Selected
+INFO  - 2022-04-13 10:44:03.143; utils.log; Recommended TAB Selected
+INFO  - 2022-04-13 10:44:08.222; utils.log; CheckBox  Clicked to select a Talent 
+INFO  - 2022-04-13 10:44:10.305; utils.log; Actions Buttons  Clicked
+INFO  - 2022-04-13 10:44:12.421; utils.log; Propose  Button   Clicked 
+INFO  - 2022-04-13 10:45:14.458; utils.log; END=FAILED
+INFO  - 2022-04-19 06:18:57.533; utils.log; START=CandidateProcessingAppliedTAB--------------------------------------------------------------
+INFO  - 2022-04-19 06:18:58.696; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-19 06:19:03.219; utils.log; Chrome browser is Selected 
+INFO  - 2022-04-19 06:19:05.915; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-04-19 06:19:13.342; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-04-19 06:19:16.062; utils.log; Employer Login Successful
+INFO  - 2022-04-19 06:19:20.290; utils.log; Dropdown  Clicked
+INFO  - 2022-04-19 06:19:22.387; utils.log; Jobs Menu  Clicked
+INFO  - 2022-04-19 06:19:24.435; utils.log; Open Jobs Menu  Clicked
+INFO  - 2022-04-19 06:19:26.605; utils.log; Job Title entered into Search Box
+INFO  - 2022-04-19 06:19:28.717; utils.log; Search Button  Clicked
+INFO  - 2022-04-19 06:19:30.810; utils.log; Job Searched was found
+INFO  - 2022-04-19 06:19:30.870; utils.log; Jobs Selected
+INFO  - 2022-04-19 06:20:13.927; utils.log; END=FAILED
+INFO  - 2022-07-20 15:19:53.141; utils.log; START=ViewEmployerJobs--------------------------------------------------------------
+INFO  - 2022-07-20 15:19:53.851; utils.log; Chrome browser is Selected 
+INFO  - 2022-07-20 15:22:05.935; utils.log; START=AddEmployerLocation--------------------------------------------------------------
+INFO  - 2022-07-20 15:22:06.763; utils.log; Chrome browser is Selected 
+INFO  - 2022-07-20 15:22:10.173; utils.log; Chrome browser is Selected 
+INFO  - 2022-07-20 15:22:35.561; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-07-20 15:22:41.201; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-07-20 15:22:44.746; utils.log; Employer Login Successful
+INFO  - 2022-07-20 15:22:49.936; utils.log; Employer Profile Menu Clicked
+INFO  - 2022-07-20 15:22:54.137; utils.log; Location Menu Selected
+INFO  - 2022-07-20 15:22:56.270; utils.log; Add New location  Clicked
+INFO  - 2022-07-20 15:23:05.048; utils.log; Title Address, City , Country and Address Entered
+INFO  - 2022-07-20 15:23:05.124; utils.log; Add Button Clicked
+INFO  - 2022-07-20 15:23:07.212; utils.log; Location Was Created Succesfully 
+INFO  - 2022-07-20 15:23:07.212; utils.log; End TEST-------------------------- EMPAddEmployerLocation------------------------
+INFO  - 2022-07-20 15:23:07.213; utils.log; END=PASSED
+INFO  - 2022-09-21 08:17:07.052; utils.log; START=AddEmployerLocation--------------------------------------------------------------
+INFO  - 2022-09-21 08:17:07.763; utils.log; Chrome browser is Selected 
+INFO  - 2022-09-21 08:19:42.277; utils.log; START=AddEmployerLocation--------------------------------------------------------------
+INFO  - 2022-09-21 08:19:42.960; utils.log; Chrome browser is Selected 
+INFO  - 2022-09-21 08:19:45.853; utils.log; Chrome browser is Selected 
+INFO  - 2022-09-21 08:19:48.038; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-09-21 08:19:54.355; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-09-21 08:19:56.368; utils.log; Employer Login Successful
+INFO  - 2022-09-21 08:19:59.335; utils.log; Employer Profile Menu Clicked
+INFO  - 2022-09-21 08:20:03.427; utils.log; Location Menu Selected
+INFO  - 2022-09-21 08:20:05.592; utils.log; Add New location  Clicked
+INFO  - 2022-09-21 08:20:14.407; utils.log; Title Address, City , Country and Address Entered
+INFO  - 2022-09-21 08:20:14.474; utils.log; Add Button Clicked
+INFO  - 2022-09-21 08:20:16.537; utils.log; Location Was Created Succesfully 
+INFO  - 2022-09-21 08:20:16.537; utils.log; End TEST-------------------------- EMPAddEmployerLocation------------------------
+INFO  - 2022-09-21 08:20:16.538; utils.log; END=PASSED
+WARN  - 2022-09-21 08:20:17.572; org.asynchttpclient.netty.handler.WebSocketHandler; onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  - 2022-10-03 16:29:52.886; utils.log; START=AddEmployerLocation--------------------------------------------------------------
+INFO  - 2022-10-03 16:29:53.819; utils.log; Chrome browser is Selected 
+INFO  - 2022-10-03 16:29:57.021; utils.log; Chrome browser is Selected 
+INFO  - 2022-10-03 16:29:59.148; utils.log; Test Execution Started On  Alpha
+INFO  - 2022-10-03 16:30:05.520; utils.log; Username , Password Entered and Sign In Button Clicked  
+INFO  - 2022-10-03 16:30:07.557; utils.log; Employer Login Successful
+INFO  - 2022-10-03 16:30:10.392; utils.log; Employer Profile Menu Clicked
+INFO  - 2022-10-03 16:30:14.470; utils.log; Location Menu Selected
+INFO  - 2022-10-03 16:30:16.568; utils.log; Add New location  Clicked
+INFO  - 2022-10-03 16:30:25.614; utils.log; Title Address, City , Country and Address Entered
+INFO  - 2022-10-03 16:30:25.679; utils.log; Add Button Clicked
+INFO  - 2022-10-03 16:30:27.742; utils.log; Location Was Created Succesfully 
+INFO  - 2022-10-03 16:30:27.743; utils.log; End TEST-------------------------- EMPAddEmployerLocation------------------------
+INFO  - 2022-10-03 16:30:27.744; utils.log; END=PASSED

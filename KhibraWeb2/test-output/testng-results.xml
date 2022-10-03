@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T16:29:52 BST" name="Default suite" finished-at="2022-10-03T16:30:29 BST" duration-ms="36384">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T16:29:52 BST" name="Default test" finished-at="2022-10-03T16:30:29 BST" duration-ms="36384">
+      <class name="NewEmployer.AddEmployerLocation">
+        <test-method is-config="true" signature="setUp1()[pri:0, instance:NewEmployer.AddEmployerLocation@7eecb5b8]" started-at="2022-10-03T16:29:52 BST" name="setUp1" finished-at="2022-10-03T16:30:09 BST" duration-ms="16892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp1 -->
+        <test-method signature="testAddEmployerLocation()[pri:0, instance:NewEmployer.AddEmployerLocation@7eecb5b8]" started-at="2022-10-03T16:30:09 BST" name="testAddEmployerLocation" finished-at="2022-10-03T16:30:28 BST" duration-ms="19230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddEmployerLocation -->
+        <test-method is-config="true" signature="screenShot(org.testng.ITestResult)[pri:0, instance:NewEmployer.AddEmployerLocation@7eecb5b8]" started-at="2022-10-03T16:30:28 BST" name="screenShot" finished-at="2022-10-03T16:30:29 BST" duration-ms="203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAddEmployerLocation status=SUCCESS method=AddEmployerLocation.testAddEmployerLocation()[pri:0, instance:NewEmployer.AddEmployerLocation@7eecb5b8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+      </class> <!-- NewEmployer.AddEmployerLocation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
